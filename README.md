@@ -28,10 +28,10 @@ For `Windows users`, an executable file is provided and no installation is requi
 
 ## Known Issues
 1. PDF Compatibility: 
-   The script is unable to process PDF files that lack a DOI or an arXiv ID. 
+   The script is unable to process PDF files that lack a DOI or an arXiv ID.   
    Additionally, it may occasionally fail to recognize the arXiv ID in some documents.
 2. Performance Note: 
-   The script requires access to an online database, which can cause delays that may seem as if the application has become unresponsive. 
+   The script requires access to an online database, which can cause delays that may seem as if the application has become unresponsive.  
    Please be patient during these periods, as the script is actively downloading the necessary information from the database.
 
 ## Contribution and Maintenance
