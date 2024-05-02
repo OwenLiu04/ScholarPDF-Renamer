@@ -28,4 +28,4 @@ For Windows users, an executable file is provided and no installation is require
 For issues and support, please contact the maintainers via email at 69543538@qq.com or open an issue in this repository.
 
 ## Contribution and Maintenance
-ScholarPDF-Renamer is developed and maintained by OwenLiu04. Contributions to the project are welcome.
+Contributors: OwenLiu04, Hangyu Ge. If you're interested in helping us improve ScholarPDF-Renamer, please feel free to contribute!
