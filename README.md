@@ -20,7 +20,8 @@ Then:
 ```bash
 python scholarpdf_renamer.py
 ```
-Please note that running the script outside of an Integrated Development Environment (IDE) may result in no visible status updates, which can be inconvenient. For a better user experience, it is recommended to execute the script within an IDE, where you can see real-time updates. Alternatively, you are encouraged to modify the script to include a status window.
+Note: Running the script outside of an Integrated Development Environment (IDE) may result in no visible status updates, which can be inconvenient. For a better user experience, it is recommended to execute the script within an IDE, where you can see real-time updates. 
+Alternatively, it would be appreciated if you could modify the script to include a status window.
 
 For Windows users, an executable file is provided and no installation is required. The script's status updates will be displayed in a terminal window.
 
