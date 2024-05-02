@@ -9,9 +9,23 @@ The scirpt extracts the DOI or arXiv IDs from the pdf file and retrieves the nec
 - Python 3.11.7 or higher, preferably installed via Anaconda.
 - Internet connection to access online databases.
 
-### Installation
-Install the required packages using pip:
+### Using the Script
+To use the Python script directly, install the required packages using pip first:
 ```bash
 pip install pdfminer.six
 pip install PyPDF2
 pip install requests
+```
+Then:
+```bash
+python scholarpdf_renamer.py
+```
+Please note that running the script outside of an Integrated Development Environment (IDE) may result in no visible status updates, which can be inconvenient. For a better user experience, it is recommended to execute the script within an IDE, where you can see real-time updates. Alternatively, you are encouraged to modify the script to include a status window.
+
+For Windows users, an executable file is provided and no installation is required. The script's status updates will be displayed in a terminal window.
+
+## Where Can You Get Help?
+For issues and support, please contact the maintainers via email at 69543538@qq.com or open an issue in this repository.
+
+## Contribution and Maintenance
+ScholarPDF-Renamer is developed and maintained by OwenLiu04. Contributions to the project are welcome.
