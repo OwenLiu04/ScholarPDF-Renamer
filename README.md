@@ -21,11 +21,14 @@ Then:
 python scholarpdf_renamer.py
 ```
 Note: Running the script outside of an Integrated Development Environment (IDE) may result in no visible status updates, which can be inconvenient. For a better user experience, it is recommended to execute the script within an IDE, where you can see real-time updates. 
+
 Alternatively, it would be appreciated if you could modify the script to include a status window.
 
 For Windows users, an executable file is provided and no installation is required. The script's status updates will be displayed in a terminal window.
 
 ## Contribution and Maintenance
 Contributors: OwenLiu04, Hangyu Ge. 
+
 For issues and support, please contact the maintainers via email at 69543538@qq.com or open an issue in this repository. 
+
 If you're interested in helping us improve ScholarPDF-Renamer, please feel free to contribute!
