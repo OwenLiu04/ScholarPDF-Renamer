@@ -1,5 +1,5 @@
 # ScholarPDF-Renamer
-ScholarPDF-Renamer is a tool designed to automate the extraction of bibliographic information from academic PDF files and rename them according to a standardized format: `year_surname of the last author_journal_title`. 
+ScholarPDF-Renamer is a tool to automate the extraction of bibliographic information from academic PDF files and rename them according to a standardized format: `year_surname of the last author_journal_title`. 
 
 ## How does it work?
 The scirpt extracts the DOI or arXiv IDs from the pdf file and retrieves the necessary data from online bibliographic databases.
@@ -24,8 +24,7 @@ Please note that running the script outside of an Integrated Development Environ
 
 For Windows users, an executable file is provided and no installation is required. The script's status updates will be displayed in a terminal window.
 
-## Where Can You Get Help?
-For issues and support, please contact the maintainers via email at 69543538@qq.com or open an issue in this repository.
-
 ## Contribution and Maintenance
-Contributors: OwenLiu04, Hangyu Ge. If you're interested in helping us improve ScholarPDF-Renamer, please feel free to contribute!
+Contributors: OwenLiu04, Hangyu Ge. 
+For issues and support, please contact the maintainers via email at 69543538@qq.com or open an issue in this repository. 
+If you're interested in helping us improve ScholarPDF-Renamer, please feel free to contribute!
