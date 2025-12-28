@@ -14,20 +14,13 @@ To use the Python script directly, install the required packages using pip first
 ```bash
 pip install pypdf requests
 ```
-Then:
-```bash
-python scholarpdf_renamer.py
-```
-Note: Running the `python script` outside of an Integrated Development Environment (IDE) may result in no visible status updates, which can be inconvenient. For a better user experience, it is recommended to execute the script within an IDE, where you can see real-time updates. 
-
-Alternatively, it would be appreciated if you could modify the script to include a status window.
+Then you can run the scirpt in an Integrated Development Environment (IDE). Note: Running the `python script` outside of an IDE may result in no visible status updates or errors. For a better user experience, it is recommended to execute the script within an IDE, where you can see real-time updates. 
 
 For `Windows users`, an executable file is provided and no installation is required. The script's status updates will be displayed in a terminal window.
 
 ## Known Issues
 1. PDF Compatibility:  
    The script is unable to process PDF files that lack a DOI or an arXiv ID.   
-   Additionally, it may occasionally fail to recognize the arXiv ID in some documents.
 
 ## Contribution and Maintenance
 Contributors: OwenLiu04, Hangyu Ge. 
